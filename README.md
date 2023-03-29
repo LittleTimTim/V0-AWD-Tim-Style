@@ -34,3 +34,17 @@ Klipper config:
 
 you'll need to add a stepper_x1 and stepper_y1 with proper pinout and coresponding driver section,
 I'll provide my current config in this folder
+
+![image](https://user-images.githubusercontent.com/129321661/228639043-8ef7fb7c-8b62-4627-8474-c55af02f191d.png)
+
+![image2](https://user-images.githubusercontent.com/129321661/228639136-eec65de8-ec49-41f3-b65c-500acabc3dde.jpg)
+
+
+
+https://user-images.githubusercontent.com/129321661/228639209-f505d235-a20b-4d33-a5d6-68dab8504cda.mp4
+
+
+
+https://user-images.githubusercontent.com/129321661/228639167-7b9931b7-c69e-46c9-8ebd-ce4d099c5433.mp4
+
+
